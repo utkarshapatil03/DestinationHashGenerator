@@ -3,7 +3,6 @@ INDEX VERSION 1.134+C:\Users\UTKARSHA\OneDrive\Desktop\BajajHealth_Program\.meta
 1865797976.index
 204428362.index
 2343616383.index
-998924096.index
 2351227526.index
 3413270776.index
 967574490.index
