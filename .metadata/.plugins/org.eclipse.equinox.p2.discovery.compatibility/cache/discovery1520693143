@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<directory xmlns="http://www.eclipse.org/mylyn/discovery/directory/">
+<entry url="https://download.jboss.org/jbosstools/photon/snapshots/updates/discovery.earlyaccess/master/plugins/org.jboss.tools.central.discovery.earlyaccess_4.26.0.Final-v20221201-0721-B1302.jar" permitCategories="true"/>
+<entry url="https://download.jboss.org/jbosstools/photon/snapshots/updates/discovery.earlyaccess/master/plugins/org.jboss.tools.central.discovery_4.26.0.Final-v20221201-0721-B1302.jar" permitCategories="true"/>
+</directory>
